@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="gaming-functions-DobbyK", # Replace with your own username
+    name="DobbyK", # Replace with your own username
     version="0.1.3",
     author="Dobby King",
     author_email="dobbyk@techie.com",
